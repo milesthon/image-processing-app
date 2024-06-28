@@ -7,7 +7,7 @@
 
 2. Создайте и активируйте окружение:
     ```shell
-    conda create --name myenv python=3.8
+    conda create --name myenv python=3.9
     conda activate myenv
     ```
 
